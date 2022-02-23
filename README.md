@@ -7,3 +7,4 @@ INI JUDUL SKRIPSI
 
 # Chapter III
 
+Footer (c) anak ITB
